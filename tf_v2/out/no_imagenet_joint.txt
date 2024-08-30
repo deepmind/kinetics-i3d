@@ -1,0 +1,23 @@
+Norm of logits: 162.92539978027344
+
+Top classes and probabilities
+0.9999584 34.958046 playing cricket
+3.508524e-05 24.700357 hurling (sport)
+3.3313318e-06 22.34595 hitting baseball
+2.2695579e-06 21.962162 shooting goal (soccer)
+4.910932e-07 20.431456 catching or throwing baseball
+1.0910741e-07 18.927155 playing badminton
+8.807217e-08 18.712978 catching or throwing softball
+8.3003584e-08 18.653706 breakdancing
+4.8120775e-08 18.108536 playing tennis
+3.7019543e-08 17.846268 playing squash or racquetball
+3.666531e-08 17.836653 robot dancing
+1.3021506e-08 16.801424 playing basketball
+1.1194344e-08 16.65023 playing volleyball
+9.855844e-09 16.522886 pumping fist
+9.855712e-09 16.522873 tap dancing
+7.0978285e-09 16.19461 cheerleading
+5.1094395e-09 15.8659115 golf putting
+3.9183203e-09 15.600485 playing kickball
+3.590486e-09 15.513109 sword fighting
+3.0749503e-09 15.35811 dodgeball
