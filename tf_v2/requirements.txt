@@ -1,0 +1,5 @@
+protobuf==3.19.6
+tensorflow==2.5.0
+dm-sonnet==2.0.2
+tensorflow-probability==0.24.0
+tensorboard==2.5.0
